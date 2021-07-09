@@ -7,5 +7,5 @@
 
 <img width="306" alt="2" src="https://user-images.githubusercontent.com/39195528/112605731-a0fcbf80-8e3d-11eb-8524-3cb01b3ab973.PNG">
 
-This project is a part of JetBrains Academy Java Track.
+
 
